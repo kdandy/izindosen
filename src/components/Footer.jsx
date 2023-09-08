@@ -7,11 +7,11 @@ const Footer = () => {
         <p className="text-center">
           made with ❤️ by{" "}
           <a
-            href="https://www.iniopik.my.id/"
+            href="https://www.kdandy.com/"
             target="_blank"
             className="font-semibold text-blue-500"
           >
-            Taufik Hidayatulloh
+            kdandy
           </a>
         </p>
       </div>
